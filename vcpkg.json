@@ -1,0 +1,9 @@
+{
+  "name": "box2d-lite",
+  "version-string": "latest",
+  "dependencies": [
+    "glfw3",
+    "imgui",
+    "glad"
+  ]
+}
