@@ -10,7 +10,7 @@ Box2D-Lite is a small 2D physics engine. It was developed for the [2006 GDC Phys
 
 # Building in VS2022 with vcpkg
 - install vcpkg: https://github.com/microsoft/vcpkg
-- define environment variable: `VCPKG_ROOT` as *vcpkg-dir*
+- define environment variable: `VCPKG_ROOT` as your local *vcpkg-dir*
 - define environment variable: `VCPKG_DEFAULT_TRIPLET` as `x64-windows`
 - close all instances of VS 2022
 - open this folder with VS 2022 (wait for CMake to finish)
